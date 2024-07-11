@@ -1,2 +1,2 @@
 # ppp
-Personal Page and Porfolio. 
+Personal Page and Portfolio. 
