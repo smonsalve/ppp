@@ -1,6 +1,6 @@
 # Sam's Ignore
 
-ppp_venv/*
+ppp_venv/
 
 
 # Byte-compiled / optimized / DLL files
